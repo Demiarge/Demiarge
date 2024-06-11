@@ -29,7 +29,7 @@ Here are a few projects I've been working on:
 
 ## Contact Me
 
-- 📧 Email: demiarge@proton.me
+- 📧 Email: 
 - 🌐 LinkedIn: 
 - 🐦 Twitter: 
 - 🔑 Public Key: [Proton mail's Public Key](https://github.com/Demiarge/Demiarge/blob/main/publickey_ptm.asc) for mailing
